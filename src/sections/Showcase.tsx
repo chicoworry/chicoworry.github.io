@@ -31,7 +31,7 @@ const projects = [
         name: 'Volt ⚡',
         description: 'A blazingly fast key-value database.',
         technologies: ['Zig'],
-        link: `${GITHUB_PROFILE}/pingy`
+        link: `${GITHUB_PROFILE}/volt`
     }
 ]
 

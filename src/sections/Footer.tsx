@@ -12,7 +12,7 @@ const Footer = () => {
             cw
             </div>
             <div className='flex justify-center whitespace-pre text-lg text-white/70'>
-                © chicoworry.github.com {new Date().getFullYear()}
+                © chicoworry.github.io {new Date().getFullYear()}
             </div>
         </div>
 
